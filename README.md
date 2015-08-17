@@ -1,4 +1,3 @@
-ArduinoInterface
-================
+# Arduino Interface Library
 
-It is a library to interface with Arduino and manipulating it's IO functionality. 
+[Documentation.pdf](Documentation.pdf)
